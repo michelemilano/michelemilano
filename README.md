@@ -16,11 +16,13 @@
 
 - 📝 I regularly write articles on <a href="https://michelemilano.it/blog/">my Blog</a>
 
+- 💬 Ask me about **Threat intelligence, penetration testing, secure coding practices, or any cybersecurity topics you find intriguing. I'm here to share knowledge and exchange ideas!**
+
 - 📫 How to reach me **michele.milano95@gmail.com**
 
 - 📄 <a href="https://michelemilano.it/about/">Know about my experiences</a>
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact : **Enthusiastic about cybersecurity, I enjoy continuously learning and honing my skills through hands-on challenges and CTF competitions. Always eager to explore new aspects of the ever-evolving cyber landscape.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
