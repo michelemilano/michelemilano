@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://michelemilano.it)
+[![MasterHead](https://www.pulsetechnology.com/hs-fs/hubfs/Cybersecurity%20Graphic.gif?width=1600&height=511&name=Cybersecurity%20Graphic.gif)](https://michelemilano.it)
 <h1 align="center">Hi 👋, I'm Michele Milano</h1>
 <h3 align="center">A passionate Cyber Security Analyst from Italy! 🇮🇹</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/michelemilano/michelemilano/blob/main/media/programmer.gif">
