@@ -1,7 +1,7 @@
 [![MasterHead](https://www.pulsetechnology.com/hs-fs/hubfs/Cybersecurity%20Graphic.gif?width=1600&height=511&name=Cybersecurity%20Graphic.gif)](https://michelemilano.it)
 <h1 align="center">Hi 👋, I'm Michele Milano</h1>
 <h3 align="center">A passionate Cyber Security Analyst from Italy! 🇮🇹</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/michelemilano/michelemilano/blob/main/media/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/michelemilano/michelemilano/blob/main/media/cybersecurity.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelemilano&label=Profile%20views&color=3584e4&style=flat" alt="michelemilano" /> </p>
