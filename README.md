@@ -10,8 +10,7 @@
 
 - 🔭 I’m currently working on **Autoguard**
 
-- 🌱 I’m currently learning **Flutter, CCNA, Chronicle SIEM**
-
+- 🌱 I’m currently learning <a href="https://flutter.dev/">**Flutter**</a>, <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html">**CCNA**</a>, <a href="https://cloud.google.com/chronicle/docs/overview?hl=en">**Chronicle SIEM**</a>
 - 👨‍💻 All of my projects are available on <a href="https://michelemilano.it/blog/">my Portfolio</a>
 
 - 📝 I regularly write articles on <a href="https://michelemilano.it/blog/">my Blog</a>
