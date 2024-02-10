@@ -28,6 +28,7 @@
 <a href="https://twitter.com/michelemilano95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michelemilano95" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/michelemilano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michelemilano" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/michelemilano686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="michelemilano686" height="30" width="40" /></a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/loox18.png" alt="TryHackMe">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,4 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michelemilano&show_icons=true&theme=dark&locale=en" alt="michelemilano" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michelemilano&" alt="michelemilano" /></p>
-
