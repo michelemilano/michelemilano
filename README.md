@@ -19,7 +19,7 @@
 
 - 📫 How to reach me : <a href="https://michelemilano.it/contact/">**Contact me!**</a>
 
-- 📄 <a href="https://michelemilano.it/about/">**Know about my experiences**</a>
+- 📄 <a href="https://michelemilano.it/about/">**Know about my experiences !!**</a>
 
 - ⚡ Fun fact : **Enthusiastic about cybersecurity, I enjoy continuously learning and honing my skills through hands-on challenges and CTF competitions. Always eager to explore new aspects of the ever-evolving cyber landscape.**
 <h3 align="right"><img src="https://tryhackme-badges.s3.amazonaws.com/loox18.png" alt="TryHackMe"></h3>
