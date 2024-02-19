@@ -21,7 +21,7 @@
 
 - 📄 <a href="https://michelemilano.it/about/">**Know about my experiences !!**</a>
 
-- ⚡ Fun fact : **Enthusiastic about cybersecurity, I enjoy continuously learning and honing my skills through hands-on challenges and CTF competitions. Always eager to explore new aspects of the ever-evolving cyber landscape.**
+- ⚡ Fun fact : **85% of people posting puppy photos are trying to scam you.**
 <h3 align="right"><img src="https://tryhackme-badges.s3.amazonaws.com/loox18.png" alt="TryHackMe"></h3>
 
 <h3 align="left">Connect with me:</h3>
