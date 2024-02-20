@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on <a href="https://michelemilano.it/blog/">**my Blog**</a>
 
-- 💬 Ask me about **Threat intelligence, penetration testing, secure coding practices, or any cybersecurity topics you find intriguing. I'm here to share knowledge and exchange ideas!**
+- 💬 Ask me about **Cloud security, penetration testing, secure coding practices, or any cybersecurity topics you find intriguing. I'm here to share knowledge and exchange ideas!**
 
 - 📫 How to reach me : <a href="https://michelemilano.it/contact/">**Contact me !!**</a>
 
