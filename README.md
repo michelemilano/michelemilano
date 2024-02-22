@@ -19,7 +19,7 @@
 
 - 📫 How to reach me : <a href="https://michelemilano.it/contact/">**Contact me !!**</a>
 
-- 📄 <a href="https://michelemilano.it/about/">**Know about my experiences !!**</a>
+- 📄 <a href="https://michelemilano.it/about/">**Know about my experiences !**</a>
 
 - ⚡ Fun fact : **85% of people posting puppy photos are trying to scam you.**
 <h3 align="right"><img src="https://tryhackme-badges.s3.amazonaws.com/loox18.png" alt="TryHackMe"></h3>
